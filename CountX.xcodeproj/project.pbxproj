@@ -13,6 +13,7 @@
 		20237D7C23637CCA00C706A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20237D7A23637CCA00C706A6 /* Main.storyboard */; };
 		20237D7E23637CD000C706A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20237D7D23637CD000C706A6 /* Assets.xcassets */; };
 		20237D8123637CD000C706A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20237D7F23637CD000C706A6 /* LaunchScreen.storyboard */; };
+		20237D8C2363BF3500C706A6 /* Tick.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 20237D8B2363BF3500C706A6 /* Tick.m4a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		20237D7D23637CD000C706A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20237D8023637CD000C706A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		20237D8223637CD000C706A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20237D8B2363BF3500C706A6 /* Tick.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Tick.m4a; path = ../../../Sound/Tick.m4a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,10 +63,19 @@
 				20237D7823637CCA00C706A6 /* ViewController.swift */,
 				20237D7A23637CCA00C706A6 /* Main.storyboard */,
 				20237D7D23637CD000C706A6 /* Assets.xcassets */,
+				20237D8823637DFE00C706A6 /* Sound */,
 				20237D7F23637CD000C706A6 /* LaunchScreen.storyboard */,
 				20237D8223637CD000C706A6 /* Info.plist */,
 			);
 			path = CountX;
+			sourceTree = "<group>";
+		};
+		20237D8823637DFE00C706A6 /* Sound */ = {
+			isa = PBXGroup;
+			children = (
+				20237D8B2363BF3500C706A6 /* Tick.m4a */,
+			);
+			name = Sound;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,6 +139,7 @@
 				20237D8123637CD000C706A6 /* LaunchScreen.storyboard in Resources */,
 				20237D7E23637CD000C706A6 /* Assets.xcassets in Resources */,
 				20237D7C23637CCA00C706A6 /* Main.storyboard in Resources */,
+				20237D8C2363BF3500C706A6 /* Tick.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,6 +299,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 255MQPN8WD;
 				INFOPLIST_FILE = CountX/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -294,7 +307,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.cogitoCODE.CountX;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -305,6 +318,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 255MQPN8WD;
 				INFOPLIST_FILE = CountX/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -312,7 +326,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.cogitoCODE.CountX;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
