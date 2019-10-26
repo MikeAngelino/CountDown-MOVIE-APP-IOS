@@ -1,18 +1,19 @@
 # CountDown-Movie-APP-IOS
 IOS APP from CountDown Horror Movie
 
-Requirements
-iOS 8.0+
-Xcode 8
-Swift 4
+# Requirements
+* iOS 8.0+
+* Xcode 8
+* Swift 4
 
 TO GET it running just add the two files into one file
 Open Xcode and select the folder, have fun makign it better, share it with me, thank you
 
-License
-The MIT License (MIT)
+# License
 
-Copyright © 2018 Yalantis
+MIT License (MIT)
+
+Copyright © 2018 cogitoCODE
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
