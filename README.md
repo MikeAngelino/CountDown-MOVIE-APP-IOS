@@ -9,6 +9,15 @@ IOS APP from CountDown Horror Movie
 TO GET it running just add the two files into one file
 Open Xcode and select the folder, have fun makign it better, share it with me, thank you
 
+# WebSite
+cogitoCODE.org
+<http://www.cogitocode.org/>
+
+# YouTube
+CODE By cogitoCODE
+< https://www.youtube.com/channel/UCacES69UQmxNMGC-f0M4-9g >
+
+
 # Here are some Images of the Final Product
 
 ![](https://lh3.googleusercontent.com/2lXijTpZWLmLGOtry8HQ9UCLxemljVw5yxAhdIOLst3Rb2adqH3mUPzBRgOQuz6bPW851n-1t7lfaQipoS5P26uCbdKCIb3oLAmSNvJW5luHCogHkXavx2nQIDhOFpYRMmyUyQYs2wJwIdKi3ePruUAITENzB8ft7jaa5S0KmqV6pfEa7nyILF_qqMSk1OmV5OwuMSw4-b7d_o1SF60Ir7sj9L4n9U_kSqDMsDKsbF1e5xS-SJTCmk-VhXE84hoVeyLg6BbigELSLuK1fwJzZZEeH-Uz8-WO9rthuKs4SUFn_FX_P9cAqFppdcqfGcg2NzbHhvivF403bhm7pyV9Ncl-F-S3XA6nPq0VwzOrdRixq3wkGs5Ur8nmcTxjIonyTKPaQpSce7d2woF0sbrORk2UvH9Srwf-RyPyKHdn7lua3VFeTUWzpVOeQD0cyfueCRjCkQo-Vr0UEInHriRXZVeD2qjXW5U2GVsHJK3cpKrgK6-HqfGDpEVQB8gqR1KbNmEH2Q1ZI4CfjcBCw1iLIbflYPP5fSNd02MBEkYfdJBzCygZh1oDPUP87DPRNVoADt4hwfY-GmZxrzZdRaUErJCmhJSQIHu7xEPzLLgGQVe6uJ_FpT3sAatmV-AmRu97zkMOZZS0IvITku07WazGSJcAhgmWmVXUbfj9prjoSv6ed5Ii-DzsfMJopI4L8goW1egOAg5YxFn_ixYjJyx8-0I7T-ktgzgXNa97eV_jl8IRY9Hh=w2438-h1376-no)
